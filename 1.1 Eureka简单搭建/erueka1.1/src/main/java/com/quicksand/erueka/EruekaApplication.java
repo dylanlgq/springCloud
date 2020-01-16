@@ -1,4 +1,4 @@
-package com.iuv.erueka;
+package com.quicksand.erueka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
